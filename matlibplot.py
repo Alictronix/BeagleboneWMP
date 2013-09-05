@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 
-
 import numpy as np
 from matplotlib import pyplot as plt
 import socket
-
-
 
 host = '192.168.7.2'
 port = 50000
